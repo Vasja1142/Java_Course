@@ -48,6 +48,7 @@ public class Homework001 {
 // Введите знак: *
 // Введите второе число: B
 // Результат: A*B
+    
     static void task003() {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите первое число: ");
@@ -74,5 +75,6 @@ public class Homework001 {
                 result = 0;
         }
         System.out.println(result);
+        
     }
 }
